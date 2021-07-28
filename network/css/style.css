@@ -37,7 +37,7 @@ html,body {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: #eee;
+	background-color: #fff;
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-touch-callout: none;
@@ -231,8 +231,8 @@ display: none;
 }
 
 #mainpanel {
-margin-top: 50px;
-margin-left: 25px;
+margin-top: 5px;
+margin-left: 5px;
 background:#fff;
 background-color:rgba(255,255,255,0.8);
 border:1px solid #ccc;
@@ -247,7 +247,7 @@ padding: 0px 0 0 0;
 
 #mainpanel .col {
 width: 240px;
-padding: 18px 18px 18px 18px;
+padding: 5px 5px 5px 5px;
 margin: 0;
 
 }
@@ -258,6 +258,7 @@ font-weight: bold;
 
 #titletext {
 padding: 6px 0 10px 0;
+display: none;
 }
 
 #info {
@@ -266,7 +267,7 @@ padding: 6px 0 10px 0;
 
 
 #search {
-	border-top: 1px solid #999;
+	border-top: 0px solid #999;
 	padding: 20px 0 0px 2px;
 }
 
@@ -338,7 +339,7 @@ user-select: none;
 	color: #fff;
 	cursor: pointer;
 	background-color: #999;
-	background-image: url('../images/sprite.png');
+	/*background-image: url('../images/sprite.png');*/
 	background-repeat: no-repeat;
 	background-position: 200px -144px;
 }

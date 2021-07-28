@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 5,
-      "minEdgeSize": 1,
-      "minNodeSize": 1,
-      "maxNodeSize": 30
+      "maxEdgeSize": 20,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 0.11,
+      "maxNodeSize": 50
     },
     "mouseProperties": {
       "maxRatio": 20,

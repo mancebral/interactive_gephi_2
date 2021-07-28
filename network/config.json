@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Cebral-Loureda, Manuel"
+  },
+  "text": {
+    "more": "Human Flourishing Author\u0027s Network by Cebral-Loureda as aa part of the Human Flourishing Research 2021-2022 at Tecnológico de Monterrey",
+    "intro": "Human Flourishing Author\u0027s Network",
+    "title": "Human Flourish Authors"
+  },
+  "legend": {
+    "edgeLabel": "Citations",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Authors"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 5,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 5,
+      "minEdgeSize": 1,
+      "minNodeSize": 1,
+      "maxNodeSize": 25
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

@@ -268,7 +268,7 @@ display: none;
 
 #search {
 	border-top: 0px solid #999;
-	padding: 20px 0 0px 2px;
+	padding: 1px 0 0px 1px;
 }
 
 #search input[name=search] {

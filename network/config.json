@@ -10,7 +10,7 @@
   "text": {
     "more": "Human Flourishing Author\u0027s Network by Cebral-Loureda as aa part of the Human Flourishing Research 2021-2022 at Tecnológico de Monterrey",
     "intro": "Human Flourishing Author\u0027s Network",
-    "title": "Human Flourish Authors"
+    "title": "Human Flourishing Author's Citations"
   },
   "legend": {
     "edgeLabel": "Citations",
@@ -42,8 +42,8 @@
     "graphProperties": {
       "maxEdgeSize": 20,
       "minEdgeSize": 0.2,
-      "minNodeSize": 0.11,
-      "maxNodeSize": 50
+      "minNodeSize": 0.1,
+      "maxNodeSize": 25
     },
     "mouseProperties": {
       "maxRatio": 20,

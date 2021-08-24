@@ -8,9 +8,9 @@
     "text": "Cebral-Loureda, Manuel"
   },
   "text": {
-    "more": "Human Flourishing Author\u0027s Network by Cebral-Loureda as a part of the Human Flourishing Research 2021-2022 at Tecnológico de Monterrey. The graph shows when authors are citated together",
-    "intro": "Human Flourishing Author\u0027s Network",
-    "title": "Human Flourishing Author's Co-Citations"
+    "more": "Human Flourishing Co-Citation Network by Cebral-Loureda as a part of the Human Flourishing Research 2021-2022 at Tecnológico de Monterrey. The graph shows when papers are citated together",
+    "intro": "Human Flourishing Co-Citation Network",
+    "title": "Human Flourishing Paper's Co-Citations"
   },
   "legend": {
     "edgeLabel": "Citations",
